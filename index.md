@@ -5,7 +5,7 @@ DictZip, GZip random access compression format(.dz), access librares and utiliti
 ## dictzip-java
 
 DictZip library and utility for Java.
-[dictzip-java project](https://dictzip.github.io/dictzip-java)
+[dictzip-java project](https://github.com/dictzip/dictzip-java)
 
 ### Copyrights and License
 
